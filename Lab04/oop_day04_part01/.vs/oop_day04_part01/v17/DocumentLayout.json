@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI .net ro2 2026\\oop\\labs\\Day-04\\oop_day04_part01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62993A8A-1C72-446B-AA40-E9420D55D26C}|oop_day04_part01\\oop_day04_part01.csproj|d:\\iti .net ro2 2026\\oop\\labs\\day-04\\oop_day04_part01\\oop_day04_part01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62993A8A-1C72-446B-AA40-E9420D55D26C}|oop_day04_part01\\oop_day04_part01.csproj|solutionrelative:oop_day04_part01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62993A8A-1C72-446B-AA40-E9420D55D26C}|oop_day04_part01\\oop_day04_part01.csproj|d:\\iti .net ro2 2026\\oop\\labs\\day-04\\oop_day04_part01\\oop_day04_part01\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62993A8A-1C72-446B-AA40-E9420D55D26C}|oop_day04_part01\\oop_day04_part01.csproj|solutionrelative:oop_day04_part01\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62993A8A-1C72-446B-AA40-E9420D55D26C}|oop_day04_part01\\oop_day04_part01.csproj|d:\\iti .net ro2 2026\\oop\\labs\\day-04\\oop_day04_part01\\oop_day04_part01\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62993A8A-1C72-446B-AA40-E9420D55D26C}|oop_day04_part01\\oop_day04_part01.csproj|solutionrelative:oop_day04_part01\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62993A8A-1C72-446B-AA40-E9420D55D26C}|oop_day04_part01\\oop_day04_part01.csproj|d:\\iti .net ro2 2026\\oop\\labs\\day-04\\oop_day04_part01\\oop_day04_part01\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62993A8A-1C72-446B-AA40-E9420D55D26C}|oop_day04_part01\\oop_day04_part01.csproj|solutionrelative:oop_day04_part01\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\ITI .net ro2 2026\\oop\\labs\\Day-04\\oop_day04_part01\\oop_day04_part01\\Circle.cs",
+              "RelativeDocumentMoniker": "oop_day04_part01\\Circle.cs",
+              "ToolTip": "D:\\ITI .net ro2 2026\\oop\\labs\\Day-04\\oop_day04_part01\\oop_day04_part01\\Circle.cs",
+              "RelativeToolTip": "oop_day04_part01\\Circle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:52:08.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\ITI .net ro2 2026\\oop\\labs\\Day-04\\oop_day04_part01\\oop_day04_part01\\Rectangle.cs",
+              "RelativeDocumentMoniker": "oop_day04_part01\\Rectangle.cs",
+              "ToolTip": "D:\\ITI .net ro2 2026\\oop\\labs\\Day-04\\oop_day04_part01\\oop_day04_part01\\Rectangle.cs",
+              "RelativeToolTip": "oop_day04_part01\\Rectangle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:51:37.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\ITI .net ro2 2026\\oop\\labs\\Day-04\\oop_day04_part01\\oop_day04_part01\\Shape.cs",
+              "RelativeDocumentMoniker": "oop_day04_part01\\Shape.cs",
+              "ToolTip": "D:\\ITI .net ro2 2026\\oop\\labs\\Day-04\\oop_day04_part01\\oop_day04_part01\\Shape.cs",
+              "RelativeToolTip": "oop_day04_part01\\Shape.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:48:26.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI .net ro2 2026\\oop\\labs\\Day-04\\oop_day04_part01\\oop_day04_part01\\Program.cs",
+              "RelativeDocumentMoniker": "oop_day04_part01\\Program.cs",
+              "ToolTip": "D:\\ITI .net ro2 2026\\oop\\labs\\Day-04\\oop_day04_part01\\oop_day04_part01\\Program.cs",
+              "RelativeToolTip": "oop_day04_part01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:46:44.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

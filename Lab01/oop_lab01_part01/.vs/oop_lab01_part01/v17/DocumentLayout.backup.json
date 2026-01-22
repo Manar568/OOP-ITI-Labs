@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI .net ro2 2026\\oop\\labs\\day01\\oop_lab01_part01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B796D1-D36D-4A90-B2C9-46D7E6C4CB8D}|oop_lab01_part01\\oop_lab01_part01.csproj|d:\\iti .net ro2 2026\\oop\\labs\\day01\\oop_lab01_part01\\oop_lab01_part01\\accountbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B796D1-D36D-4A90-B2C9-46D7E6C4CB8D}|oop_lab01_part01\\oop_lab01_part01.csproj|solutionrelative:oop_lab01_part01\\accountbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountBank.cs",
+              "DocumentMoniker": "D:\\ITI .net ro2 2026\\oop\\labs\\day01\\oop_lab01_part01\\oop_lab01_part01\\AccountBank.cs",
+              "RelativeDocumentMoniker": "oop_lab01_part01\\AccountBank.cs",
+              "ToolTip": "D:\\ITI .net ro2 2026\\oop\\labs\\day01\\oop_lab01_part01\\oop_lab01_part01\\AccountBank.cs",
+              "RelativeToolTip": "oop_lab01_part01\\AccountBank.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAkwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T20:51:33.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
