@@ -10,6 +10,7 @@ Each folder represents a training day and includes the related projects and exer
 - Day4
 - Day5
 - Day6
+- Day7
 
 ## Technologies
 - C#
